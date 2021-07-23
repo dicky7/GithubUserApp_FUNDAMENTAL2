@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="favorite">favorite</string>
+    <string name="detail">detail</string>
+    <string name="share">share</string>
+    <string name="dicky_widya_angga_kusuma">Dicky Widya Angga Kusuma</string>
+    <string name="dickyangga73_gmail_com">dickyangga73@gmail.com</string>
+    <string name="about">About</string>
+    <string name="username">Pengguna</string>
+    <string name="google">Google</string>
+    <string name="san_fracisco_usa">San Fracisco-USA</string>
+    <string name="_40">40</string>
+    <string name="followers">Pengikut</string>
+    <string name="_2000">2000</string>
+    <string name="repositories">Repositori</string>
+    <string name="_36">36</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari Pengguna</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+</resources>
